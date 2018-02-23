@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/sikkadesire/sikkadesire.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown - Rahul Bali
+### Design and website by Shekhar Sikka
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This website describes the contents.
 
 ```markdown
 Syntax highlighted code block
@@ -22,6 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+[Instagram](https://www.instagram.com/sikkadesire/?hl=en)
 
 [Link](url) and ![Image](src)
 ```
