@@ -23,10 +23,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Instagram](https://www.instagram.com/sikkadesire/?hl=en)
 
 [Link](url) and ![Image](src)
 ```
+
+
+[Instagram](https://www.instagram.com/sikkadesire/?hl=en)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
