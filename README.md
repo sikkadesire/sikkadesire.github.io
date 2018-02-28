@@ -29,6 +29,8 @@ Syntax highlighted code block
 
 
 [Instagram](https://www.instagram.com/sikkadesire/?hl=en)
+You can order for your logo on my fiverr gig:
+[Fiverr](http://www.fiverr.com/s2/639c605373)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
