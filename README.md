@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
+Welcome to my content. I am a graphic designer, work everyday to make your heart and soul to experience awesome designs, logos, 3D art which I create everyday. I try to grow daily in this beautiful world of designing, learn new skills related to it and work hard on these. You can order work if you want to work with me.  
 
-You can use the [editor on GitHub](https://github.com/sikkadesire/sikkadesire.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Design and website by Shekhar Sikka
 
@@ -28,11 +26,13 @@ Syntax highlighted code block
 ```
 
 
-###[Instagram](https://www.instagram.com/sikkadesire/?hl=en)
+### [Instagram](https://www.instagram.com/sikkadesire/?hl=en)
 
-###You can order for your logo on my fiverr gig:
+### You can order for your logo on my fiverr gig:
 [Fiverr](http://www.fiverr.com/s2/639c605373)
 
+## Contact:
+email: shekharsikka963@gmail.com
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
