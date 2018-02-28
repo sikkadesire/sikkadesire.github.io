@@ -28,9 +28,9 @@ Syntax highlighted code block
 ```
 
 
-1.[Instagram](https://www.instagram.com/sikkadesire/?hl=en)
+###[Instagram](https://www.instagram.com/sikkadesire/?hl=en)
 
-You can order for your logo on my fiverr gig:
+###You can order for your logo on my fiverr gig:
 [Fiverr](http://www.fiverr.com/s2/639c605373)
 
 
