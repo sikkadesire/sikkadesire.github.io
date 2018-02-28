@@ -32,7 +32,7 @@ Syntax highlighted code block
 [Fiverr](http://www.fiverr.com/s2/639c605373)
 
 ## Contact:
-email: [shekharsikka963@gmail.com](shekharsikka963@gmail.com)
+email: shekharsikka963@gmail.com
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
