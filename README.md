@@ -1,29 +1,24 @@
-## Welcome to GitHub Pages
-Welcome to my content. I am a graphic designer, work everyday to make your heart and soul to experience awesome designs, logos, 3D art which I create everyday. I try to grow daily in this beautiful world of designing, learn new skills related to it and work hard on these. You can order work if you want to work with me.  
+## Welcome to Sikka Desire Creations
+
 
 
 ### Design and website by Shekhar Sikka
 
 This website describes the contents.
 
-```markdown
+```markdown```
+_tedi tedi like this_
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**sevices offered**
 
-- Bulleted
-- List
+- Illustrations
+- Product Design
 
-1. Numbered
-2. List
+1. Label designs
+2. Banner for Businesses
 
-**Bold** and _Italic_ and `Code` text
-
-
-[Link](url) and ![Image](src)
-```
+![this is image](https://scontent-bom1-1.cdninstagram.com/vp/1eb15dd46f203aaeda2484932a8a9b4b/5B4E8F55/t51.2885-15/e35/29094091_586944575006453_3056645043931578368_n.jpg)
 
 
 ### [Instagram](https://www.instagram.com/sikkadesire/?hl=en)
@@ -34,12 +29,4 @@ Syntax highlighted code block
 ## Contact:
 email: shekharsikka963@gmail.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sikkadesire/sikkadesire.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Settings](https://github.com/sikkadesire/sikkadesire.github.io/settings)
